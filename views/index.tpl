@@ -15,5 +15,6 @@
         <input type="text" id="album" name="album" placeholder="album title">
         <input type="submit" id="search" value="search">
     </form>
+    <div><a href="https://github.com/ohbarye/atelier">https://github.com/ohbarye/atelier</a></div>
 </body>
 </html>

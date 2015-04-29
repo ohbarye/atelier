@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 
 Edit `resources/env.py`'s `clientID` and `userID` for developement.
 
-```python:env.py
+```python
 import os
 
 # default keys are taken from environment variables
